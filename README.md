@@ -1,4 +1,4 @@
-# Customer Subscription & Churn Analytics (SQL Project)
+# Customer Subscription & Churn Analytics
 
 This project analyzes customer subscriptions and churn using SQL.  
 It includes tables for customers, subscriptions, and churn records, along with sample data and analytics queries.
