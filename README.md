@@ -32,7 +32,7 @@ It includes tables for customers, subscriptions, and churn records, along with s
 
 ## Tools Used
 
-- SQL (MySQL / PostgreSQL)  
+- SQL 
 - ER Diagram design  
 
 
